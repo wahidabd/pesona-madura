@@ -1893,9 +1893,9 @@ ul.breadcrumb li a:hover {
 /* -- Section Gallery -- */
 
 .section-gallery .row {
-    display: -ms- flexbox;
+    display: -ms-flexbox;
     display: flex;
-    -ms- flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     padding: 0 4px;
     margin: 20px 0;
